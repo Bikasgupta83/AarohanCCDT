@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #b5a7a7;
+}
+.footer{
+    background-color: rgb(20, 19, 19);
+    color: #fff;
+    text-align: center;
+}
+.footerP{
+    border: 1px solid transparent;
+    text-align: justify;
+    
+}
+.footericon a{
+    color: #fff;
+}
+.courses a{
+    text-decoration: none;
+    color: #fff;
+}
+.socialicon a{
+    text-decoration: none;
+    color: #fff;
+}
+.aboutusinfo{
+    text-align: justify;
+    border: 1px solid transparent;
+}
+.AarohanAboutProjectInfo{
+    text-align: justify;
+}
+.dummyImg{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+.dummyInfo{
+    height:590px;
+    border: 3px solid #000;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 15px;
+}
+.TeamInfoName{
+    color: ;
+}
+.dot{
+    color: transparent;
+}
+.stafInfo{
+    text-align: justify;
+}
+.fa-facebook{
+    color: #3b5998;
+}
+.fa-instagram{
+    color:     #e95950;
+}
+.fa-twitter{
+    color: #00acee;
+}
+@media screen and (min-width: 996px){
+    .HomeCCDTHeading{
+        font-size: 70px;
+        color: rgb(3, 3, 54);
+    }
+    .CCDT{
+        color: #ff7200;
+    }
+}
+@media screen and (max-width: 320px){
+    .HomeCCDTHeading{
+        font-size: 25px;
+        color: rgb(3, 3, 54);
+    }
+    .CCDT{
+        color: #ff7200;
+    }
+}
+@media screen and (min-width: 320px){
+    .CCDT{
+        color: #ff7200;
+    }
+    .HomeCCDTHeading{
+        color: rgb(3, 3, 54);
+    }
+}
+.opositeHomeCCDT{
+    border: 1px solid transparent;
+    text-align: justify;
+}
+.contactHeaing{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+/* Computer Application courses */
+
+.Computer-Application{
+    background-color: #fff;
+    width: 100%;
+    padding: 30px;
+}
+.About-computer-App{
+    border: 1px solid #000;
+    font-size: 20px;
+    padding: 20px;
+    text-align: justify;
+}
+.AboutComputerApplicationCourse{
+    padding-top: 0px;
+}
+/* @media screen and (max-width:682px) {
+    .AboutComputerApplicationCourse{
+        font-size: 20px;
+    }
+}
+@media  screen and (max-width:425px) {
+    .AboutComputerApplicationCourseImg{
+        visibility: hidden;
+    }
+    .About-computer-App{
+        margin-top: -200px;
+    }
+}
+@media  screen and (max-width:375px){
+    .About-computer-App{
+        margin-top: -140px;
+    }
+} */
